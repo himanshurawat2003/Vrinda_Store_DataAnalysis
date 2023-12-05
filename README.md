@@ -105,7 +105,7 @@ Sales and order data analysis by month indicates the following trends:
 
 By implementing these recommendations, Vrinda Store can enhance sales performance, maintain customer engagement, and strategically align business operations with seasonal demand fluctuations.
 
-## COMPLETE DASHBOARD OVERVIEW
+## COMPLETE Report OVERVIEW
 
 ![Vrinda Store Data Analysis xlsx - WPS Office 05-07-2023 16_43_51](https://github.com/himanshurawat2003/Vrinda_Store_DataAnalysis/assets/113167021/b7182ecb-0bf6-415d-9a64-0a7698992a16)
 
